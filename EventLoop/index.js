@@ -17,7 +17,7 @@ setTimeout(()=> {
 },2000);
 
 
-syncronous exapmle
+// syncronous exapmle
 [1,2,3,4].forEach(()=>{
     console.log(i);
 })
